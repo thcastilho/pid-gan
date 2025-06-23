@@ -119,7 +119,7 @@ Isso gerará (ou acrescentará) os resultados em output.txt.
 ---
 
 
-## Contact
+## Contato
 
 - Eduardo Roldão Nonato Perondini: `eduardo.perondini@unesp.br`
 - Rafael Fabri Chimidt: `rafael.fabri@unesp.br`
