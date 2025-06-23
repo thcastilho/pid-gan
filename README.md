@@ -117,3 +117,10 @@ python compute_ssim.py --dir1 path/para/imagens_originais --dir2 path/para/image
 Isso gerará (ou acrescentará) os resultados em output.txt.
 
 ---
+
+
+## Contact
+
+- Eduardo Roldão Nonato Perondini: `eduardo.perondini@unesp.br`
+- Rafael Fabri Chimidt: `rafael.fabri@unesp.br`
+- Thiago César Castilho Almeida: `tc.almeida@unesp.br`  
